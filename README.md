@@ -14,6 +14,7 @@ The application integrates backend functionality, database management, and data-
 * Events and notifications: Administrators add events and trainings in the admin panel. Students see them on the Events page and on a Notifications page sorted by newest first.
 * Account management: Login, logout and change-password pages, plus About and Services pages.
 Admin dashboard: The Django admin manages users, events and uploaded Excel files.
+
  🛠️ Technology Stack
 
 | Component             | Technologies          |
